@@ -73,11 +73,11 @@ Projeto web desenvolvido para uma barbearia, trabalhando conceitos de desenvolvi
 
 🔗 [Ver projeto no GitHub](https://github.com/richardlimax/barber-strong)
 
-### 🛒 LojaBrás
+### 🛒 INfraControl
 
-Projeto de aplicação web voltado para e-commerce, utilizado para desenvolver e praticar conceitos de programação e desenvolvimento web.
+Projeto de aplicação web voltado para controle de estoque, utilizado para desenvolver e praticar conceitos de programação e desenvolvimento web.
 
-🔗 [Ver projeto no GitHub](https://github.com/richardlimax/lojabras)
+🔗 [Ver projeto no GitHub](https://infracontrol-arv5.onrender.com)
 
 ---
 
