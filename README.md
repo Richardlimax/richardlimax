@@ -65,6 +65,8 @@ Projeto voltado para **gestão e inventário de equipamentos de TI**, pensado pa
 
 **Objetivo:** transformar controles de infraestrutura em uma solução organizada, centralizada e de fácil utilização.
 
+🔗 [Ver projeto no GitHub](https://infracontrol-arv5.onrender.com)
+
 `Em desenvolvimento 🚧`
 
 ### 💈 Barber Strong
@@ -72,12 +74,6 @@ Projeto voltado para **gestão e inventário de equipamentos de TI**, pensado pa
 Projeto web desenvolvido para uma barbearia, trabalhando conceitos de desenvolvimento Front-End, estruturação de páginas e experiência visual.
 
 🔗 [Ver projeto no GitHub](https://github.com/richardlimax/barber-strong)
-
-### 🛒 INfraControl
-
-Projeto de aplicação web voltado para controle de estoque, utilizado para desenvolver e praticar conceitos de programação e desenvolvimento web.
-
-🔗 [Ver projeto no GitHub](https://infracontrol-arv5.onrender.com)
 
 ---
 
