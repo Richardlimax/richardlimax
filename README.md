@@ -59,21 +59,20 @@ Tenho interesse constante em aprender novas tecnologias, desenvolver projetos pr
 
 ## 🚀 Projetos em destaque
 
-### 🖥️ InfraControl — Gestão e Inventário de TI
+### 📊 Marketplace | Acompanhamento do Projeto
 
-Projeto voltado para **gestão e inventário de equipamentos de TI**, pensado para facilitar o controle de computadores, unidades, setores, endereços IP, status dos equipamentos e processos de manutenção.
+Painel oficial de acompanhamento do projeto semestral de Banco de Dados, criado para organizar etapas, responsáveis, prazos e entregas da equipe.
 
-**Objetivo:** transformar controles de infraestrutura em uma solução organizada, centralizada e de fácil utilização.
+🔗 [Acessar painel](https://marketplace-bd-2026.github.io/painel/)  
+🔗 [Ver repositório](https://github.com/marketplace-bd-2026/painel)
 
-🔗 [Ver projeto no GitHub](https://infracontrol-arv5.onrender.com)
+`Em desenvolvimento`
 
-`Em desenvolvimento 🚧`
+### 💻 Algoritmos e Pensamento Computacional
 
-### 💈 Barber Strong
+Repositório com os códigos desenvolvidos nas aulas 2 a 10 da disciplina de Algoritmos e Pensamento Computacional, utilizando a linguagem C.
 
-Projeto web desenvolvido para uma barbearia, trabalhando conceitos de desenvolvimento Front-End, estruturação de páginas e experiência visual.
-
-🔗 [Ver projeto no GitHub](https://github.com/richardlimax/barber-strong)
+🔗 [Ver projeto no GitHub](https://github.com/Richardlimax/algoritmos-pensamento-computacional)
 
 ---
 
